@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.962870ee.chunk.css",
+    "main.js": "/static/js/main.9c335055.chunk.js",
+    "main.js.map": "/static/js/main.9c335055.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6dd6687b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6dd6687b.js.map",
+    "static/css/2.aa764512.chunk.css": "/static/css/2.aa764512.chunk.css",
+    "static/js/2.c00637b4.chunk.js": "/static/js/2.c00637b4.chunk.js",
+    "static/js/2.c00637b4.chunk.js.map": "/static/js/2.c00637b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1a1312e57a080b250163a81c95837209.js": "/precache-manifest.1a1312e57a080b250163a81c95837209.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.aa764512.chunk.css.map": "/static/css/2.aa764512.chunk.css.map",
+    "static/css/main.962870ee.chunk.css.map": "/static/css/main.962870ee.chunk.css.map",
+    "static/js/2.c00637b4.chunk.js.LICENSE.txt": "/static/js/2.c00637b4.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/hongkong.png": "/static/media/hongkong.e82ae5b3.png",
+    "static/media/imageA.png": "/static/media/imageA.1c1b7c09.png",
+    "static/media/imageB.png": "/static/media/imageB.4232bc3a.png",
+    "static/media/imageC.png": "/static/media/imageC.39b68e56.png",
+    "static/media/imageSmall_1.png": "/static/media/imageSmall_1.756b5b0f.png",
+    "static/media/imageSmall_2.png": "/static/media/imageSmall_2.42084e3a.png",
+    "static/media/imageSmall_3.png": "/static/media/imageSmall_3.2adc0b22.png",
+    "static/media/imageSmall_4.png": "/static/media/imageSmall_4.5f0e4394.png",
+    "static/media/imageSmall_5.png": "/static/media/imageSmall_5.4d1d0d6f.png",
+    "static/media/imageSmall_6.png": "/static/media/imageSmall_6.5efab3e7.png",
+    "static/media/japan.png": "/static/media/japan.e1ddf0c6.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mapGraphic.png": "/static/media/mapGraphic.a8c652fc.png",
+    "static/media/singapore.png": "/static/media/singapore.89398c9a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd6687b.js",
+    "static/css/2.aa764512.chunk.css",
+    "static/js/2.c00637b4.chunk.js",
+    "static/css/main.962870ee.chunk.css",
+    "static/js/main.9c335055.chunk.js"
+  ]
+}
